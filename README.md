@@ -63,7 +63,7 @@ hms/
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/yourusername/hospital-management-system.git
+git clone https://github.com/yourusername/hospital-management-system.git](https://github.com/vibhorkolhe-72001/Hospital-Management-System.git
 cd hospital-management-system
 ```
 
@@ -104,4 +104,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-👉 **Note:** Replace `yourusername` in the clone URL with your actual GitHub username.  
